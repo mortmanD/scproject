@@ -1,0 +1,65 @@
+p{
+    color: black;
+    background-color: aqua;
+    }
+h1{
+    color: red;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .footer{
+        background-color: beige;
+        color: cadetblue;
+        padding-top: 20px;
+        margin: auto;
+            }
+.myimage{
+    padding: 10px;
+    size: 100%;
+    border: coral 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+.list{
+        background-color: cyan;
+        color: black;
+        font-size: 2em;
+        font-style: oblique;
+            }
+.sidebar{
+        float: top;
+        size: auto ;
+                    
+        }
+#navbar{
+    background-color: lawngreen;
+    font-size: 23px;
+    vertical-align: inherit;
+    overflow: hidden;
+    padding-bottom: 20px;
+
+    
+}
+link{
+    color: blue;
+    visibility:orange;
+
+}
+.table{
+    border: crimson;
+    border-style: dotted;
+    margin: 10px;
+    padding: 10px 20px;
+    border-width: 10px;
+    outline-style: width 100%;
+    }
+    th, td {
+        padding: 15px;
+    }
+    th {
+        text-align: left;
+      }
+      table {
+        border-spacing: 5px;
+      }
+
